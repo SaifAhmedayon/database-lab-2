@@ -1,1 +1,1 @@
-# database-lab-2
+# IDB-lab
